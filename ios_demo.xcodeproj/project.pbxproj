@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E1403E8726D52EF500C880BF /* Master.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1403E8626D52EF500C880BF /* Master.swift */; };
+		E1403E8926D52F9800C880BF /* Master2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1403E8826D52F9800C880BF /* Master2.swift */; };
 		E14796A0264CC208004E2F1C /* ios_demoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E147969F264CC208004E2F1C /* ios_demoApp.swift */; };
 		E14796A2264CC208004E2F1C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E14796A1264CC208004E2F1C /* ContentView.swift */; };
 		E14796A4264CC209004E2F1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E14796A3264CC209004E2F1C /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		E1403E8626D52EF500C880BF /* Master.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Master.swift; sourceTree = "<group>"; };
+		E1403E8826D52F9800C880BF /* Master2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Master2.swift; sourceTree = "<group>"; };
 		E147969C264CC208004E2F1C /* ios_demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ios_demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E147969F264CC208004E2F1C /* ios_demoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_demoApp.swift; sourceTree = "<group>"; };
 		E14796A1264CC208004E2F1C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				E14796A8264CC209004E2F1C /* Info.plist */,
 				E14796A5264CC209004E2F1C /* Preview Content */,
 				E1403E8626D52EF500C880BF /* Master.swift */,
+				E1403E8826D52F9800C880BF /* Master2.swift */,
 			);
 			path = ios_demo;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			files = (
 				E1403E8726D52EF500C880BF /* Master.swift in Sources */,
 				E14796A2264CC208004E2F1C /* ContentView.swift in Sources */,
+				E1403E8926D52F9800C880BF /* Master2.swift in Sources */,
 				E14796A0264CC208004E2F1C /* ios_demoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
